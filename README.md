@@ -1,6 +1,6 @@
-# READMY File Generator
+# README File Generator
   
-  [![License](https://img.shields.io/static/v1?label=Licence&message=ISC&color=green)](https://opensource.org/license/ISC)
+  [![License](https://img.shields.io/static/v1?label=Licence&message=BSD-3-clause&color=green)](https://opensource.org/license/BSD-3-clause)
   
 
  
@@ -87,7 +87,6 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 
 
-
 ## Questions
  Feel free to contact me with any questions via the information below: 
 
@@ -101,7 +100,7 @@ My e-mail -  dianakhalina@gmail.com
     
 ## License
 
-[![License](https://img.shields.io/static/v1?label=Licence&message=ISC&color=green)](https://opensource.org/license/ISC)
+[![License](https://img.shields.io/static/v1?label=Licence&message=BSD-3-clause&color=green)](https://opensource.org/license/BSD-3-clause)
 
  
 
