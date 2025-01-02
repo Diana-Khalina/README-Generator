@@ -74,11 +74,11 @@ ${data.tests}
 
 
 ${data.github &&
-    `## Questions\n My GitHub -
+    `## Questions\n Feel free to contact me with any questions via the information below: \n\n My GitHub -
 <a href="https://github.com/${data.github}"><strong>${data.github}</a></strong>
 \n` }
 ${data.email && 
-  `Write me e-mail -  ${data.email} \n\n`
+  `My e-mail -  ${data.email} \n\n`
 }
     
 ${
