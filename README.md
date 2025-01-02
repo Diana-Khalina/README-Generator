@@ -1,4 +1,4 @@
-# README File Generator
+# READMY File Generator
   
   [![License](https://img.shields.io/static/v1?label=Licence&message=ISC&color=green)](https://opensource.org/license/ISC)
   
@@ -9,7 +9,7 @@
 - [Description](#description)
 - [Installation instructions](#installation)
 - [Usage information](#usage)
-
+- [Contribution guidelines](#contribution)
 - [Test instructions](#test)
 - [Questions](#questions)
 - [License](#license)
@@ -21,6 +21,7 @@
   Every good project needs a quality README with information about the project - what the app is for, how to use the app, how to install it, how to make contributions so that other developers are more likely to use and contribute to the success of the project.
 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project. 
 
+While completing the challenge I used YouTube Lessons from Anton Scheving https://www.youtube.com/@AntonScheving/videos
 
 
 
@@ -58,6 +59,13 @@ The application then takes your responses and will generate README.md file.  Fin
 
 
 
+## Contribution
+
+If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+
+
+
+
 
 
 
@@ -82,11 +90,12 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ## Questions
  Feel free to contact me with any questions via the information below: 
+
  My GitHub -
 <a href="https://github.com/Diana-Khalina"><strong>Diana-Khalina</a></strong>
 
 
-Write me e-mail -  dianakhalina@gmail.com 
+My e-mail -  dianakhalina@gmail.com 
 
 
     
